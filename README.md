@@ -1,1 +1,1 @@
-# student.lab
+# studentlab
